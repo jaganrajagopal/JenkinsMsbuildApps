@@ -1,0 +1,2 @@
+# JenkinsMsbuildApps
+Msbuild via Jenkins
